@@ -1,0 +1,34 @@
+#s:1|Casa|-1|-1|1|-1|-1|-1|Tu padre ha muerto, deberias ir a la ciudad a por trabajo|Los guardias no me dejaran entrar , deberia coger las monedas|1|
+#s:2|Jardín|1|3|2|5|-1|-1|El jardin de mi casa, deberia ir a la ciudad| Mas adelante hay un bonito lago|1|
+#s:3|CaminoCiudad|7|5|6|-1|-1|-1|Es el camino de la ciudad, voy por el buen camino|Por aqui voy a la ciudad|1|
+#s:4|CaminoMonty|-1|-1|4|3|-1|-1|Veo un castillo que ayer no estaba aqu, que ha pasado|Veo la bandera francesa en el castillo, como han llegado hasta aqui|1|
+#s:5|CaminoCiudad2|8|-1|7|-1|-1|-1|El camino sigue, seguire por aqui|Hay un cadaver, se ha muerto de hambre|1|
+#s:6|CaminoCiudad3|9|-1|8|-1|-1|-1|Veo las puertas de la ciudad|Hay bastante gente yendo a la ciudad|1|
+#s:7|Intersección|-1|21|9|10|-1|-1|Los guardias de la ciudad no me dejan pasar|Si tuviese dinero les podría sobornar|1|
+#s:8|EntradaCiudad|-1|10|-1|11|-1|-1|La ciudad esta llena de gente|Deberia ir al mercado a por algo de comer y trabajo|1|
+#s:9|Mercado|14|11|12|-1|-1|-1|La comida es demasiado cara|Seguiré buscando|1|
+#s:10|Mercado2|12|13|-1|-1|-1|-1|Una señora mayor no para de mirarme|Ire a ver que quiere de mi|1|
+#s:11|InicioAventura|-1|-1|-1|13|-1|-1|Tus ojos son del color del linaje de los reyes, llevaba años sin ver esos ojos|Consigue la espada de los reyes, dicen que hay un mapa que dice donde esta, ve a la biblioteca, si la consigues y vuelves, te convertirás en rey|1|
+#s:12|CaminoCastillo|16|15|14|-1|-1|-1|Veo el castillo de los antiguos reyes|El senescal no me dejará entrar en el castillo, se quiere aferrar al poder|1|
+#s:13|Castillo|-1|-1|16|-1|-1|-1|El trono es mio, ya que tengo la espada|Reinaré y convertire este reino en lo que antaño fue|1|
+#s:14|Puerta Biblioteca|17|18|20|15|-1|-1|Aqui esta la biblioteca, dentro esta el mapa|La biblioteca esta cerrada, me tengo que colar|1|
+#s:15|Biblioteca|-1|-1|34|18|19|-1|He conseguido entrar, ahora a encontrar el mapa|En esta planta no esta, subire a la siguiente planta|1|
+#s:16|MAPA|-1|-1|-1|-1|-1|19|Aqui esta el mapa|Ya tengo el mapa, lo dejare aqui para no levantar sospechas|0|
+#s:17|Casas|-1|-1|17|-1|-1|-1|Por aquí se va a una zona de casas|Algun dia tendre dinero para comprarme una|1|
+#s:18|Rodeo biblioteca|20|33|-1|-1|-1|-1|Debo buscar una manera de entrar en la biblioteca|Deberia buscar una ventana o algo parecido|1|
+#s:19|Camino mazmorra|-1|23|22|21|-1|-1|Segun el mapa por aqui se va a la cueva en la que esta la espada|A saber lo que me podria encontrar|1|
+#s:20|Camino mazmorra2|24|26|25|23|-1|-1|Veo la cueva desde aqui pero no veo una entrada|Espero no encontrarme ninguna bestia|1|
+#s:21|Granja|-1|-1|22|-1|-1|-1|Hay una granja, pero esta vacia|Si las granjas estan vacias normal que se muera la gente de hambre|1|
+#s:22|Camino mazmorra3|-1|27|-1|26|-1|-1|La cueva esta delante pero no veo entrada|Pudiera ser que el mapa se equivocara y fuese todo mentira|1|
+#s:23|Entrada cueva|-1|28|-1|27|-1|-1|Definitivamente, la cueva esta cerrada|Hay un  agujero pra una piedra deberia buscarla|1|
+#s:24|Llave|-1|-1|24|-1|-1|-1|Aquí hay una piedra bastante rara|Esta aventura se esta volviendo demasiado rara|1|
+#s:25|Campo2|25|-1|-1|-1|-1|-1||No hay nada interesante por aqui|Las vistas son espectaculares|1|
+#s:26|Cuevadentro|-1|29|-1|28|-1|-1|La cueva esta oscura|Si tuviera un candelero podria ver mejor|0|
+#s:27|Arribaabajo|-1|-1|-1|29|31|30|Aquí no hay nada|Puedo ir hacia arriba o abajo|¿En donde estara la espada?|1|
+#s:28|Cuevaarriba|-1|-1|-1|-1|32|31|Puedo seguir subiendo|Como al final no este la espada va a ser una decepcion|1|
+#s:29|Cuevaabajo|-1|-1|-1|-1|30|-1|Hay una bestia aterradora durmiendo|Me tengo que ir de aqui ya|1|
+#s:30|Espada|-1|-1|-1|-1|-1|32|La espada de los reyes esta aqui resplandeciente|Al fin la espada es mia, sere rey de Boletaria|1|
+#s:31|Lago|6|-1|-1|-1|-1|-1|El lago alcanza hasta donde llega la vista|Se ven barcos pesqueros ir a pescar|1|
+#s:32|Lago2|2|-1|-1|-1|-1|-1|Me podria dar un baño|Este lago es demasiado grande, bien podria ser un mar|1|
+#s:33|Castillo Monty Python|4|-1|-1|-1|-1|-1|No nos das miedo, vete con viento fresco, cabeza de melon, alcachofa vacia|Me rio de tus historias,tu madre era una cabra y tu padre olia a cobaya, ahora vete o invento mas insultos|1|
+#s:34|Ventana|34|-1|-1|33|-1|-1|Una ventana de la biblioteca, por aqui me puedo colar|La ventana esta cerrada, necesito una piedra para romperla|1|

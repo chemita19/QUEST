@@ -1,0 +1,20 @@
+#o:1|Monedas|1|Con esto puedo sobornar a los guardias|Se ha movido,con esto puedo sobornar a los guardias|10|1|0|0|0|1|
+#o:2|Candelero|5|Puedo iluminar habitaciones con el|Se ha movido,Puedo iluminar habitaciones con el|-1|1|0|0|1|1|
+#o:3|Cadaver|5|El pobre se ha muerto de hambre|Se ha movido,El pobre se ha muerto de hambre|-1|0|0|0|0|1|
+#o:4|Escudo|32|Con este puedo ir a ese castillo de al lado|Se ha movido,Con este puedo ir a ese castillo de al lado|4|1|0|0|0|1|
+#o:5|Malashierbas|2|No tengo tiempo para cortar las malas hierbas|Se ha movido,No tengo tiempo para cortar las malas hierbas|-1|0|0|0|0|1|
+#o:6|Escudoroto|3|La puedo utilizar para defenderme|Se ha movido,La puedo utilizar para defenderme|-1|1|0|0|0|1|
+#o:7|Cañadepescar|31|Con esto puedo pescar, aunque no se como|Se ha movido,Con esto puedo pescar, aunque no se como|-1|1|0|0|0|1|
+#o:8|Piedra|18|Con esta piedra puedo romper la ventana de la biblioteca|Se ha movido,Con esta piedra puedo romper la ventana de la biblioteca|34|1|0|0|0|1|
+#o:9|Mapa|16|La espada esta en una cueva al este de la ciudad|Se ha movido,La espada esta en una cueva al este de la ciudad|-1|0|0|0|0|1|
+#o:10|Escaleras|15|Las utilizare para subir a la planta de arriba|Se ha movido,Las utilizare para subir a la planta de arriba|-1|0|0|0|0|1|
+#o:11|Collar|Me queda bastante bien, me lo quedare|Se ha movido,Me queda bastante bien, me lo quedare|-1|1|0|0|0|1|
+#o:12|Tiendaarmas|9|Vaya espadas que tienen, ojala pudiera comprarme una|Se ha movido,Vaya espadas que tienen, ojala pudiera comprarme una|-1|0|0|0|0|1|
+#o:13|Tiendacomida|9|Tengo tanta hambre, pero esta tienda es muy cara|Se ha movido,Tengo tanta hambre, pero esta tienda es muy cara|-1|0|0|0|0|1|
+#o:14|Vagabundo|10|Que quieres de mi chico, dejame en paz|Se ha movido,Que quieres de mi chico, dejame en paz|-1|0|0|0|0|1|
+#o:15|Vaca|21|Me esta mirando con mala cara, me deberia ir|Se ha movido,Me esta mirando con mala cara, me deberia ir|-1|0|0|0|0|1|
+#o:16|Perro|22|El perro salvaje solo quiere juguetear conmigo|Se ha movido,El perro salvaje solo quiere juguetear conmigo|-1|0|0|0|0|1|
+#o:17|Manzano|20|Lamentablemente no tiene manzanas, una pena|Se ha movido,Lamentablemente no tiene manzanas, una pena|-1|0|0|0|0|1|
+#o:18|Bestia|29|Tiene restos de humano entre los dientes, me deberia ir|Se ha movido,Tiene restos de humano entre los dientes, me deberia ir|-1|0|0|0|0|1|
+#o:19|Espada|30|Esta es la espada de los reyes, ahora sere rey|Se ha movido,Esta es la espada de los reyes, ahora sere rey|16|1|0|0|0|1|
+#o:20|Piedracueva|24|Con esto puedo abrir la cueva|Se ha movido,Con esto puedo abrir la cueva|28|1|0|0|0|1|
